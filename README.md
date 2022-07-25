@@ -12,7 +12,7 @@ Data is saved automatically in
 /home/[username]/.local/share/plasma-notes/todolist
 ```
 
-<img src="https://github.com/fnccpp/qdorg-kde/blob/main/qdorg.png" width="320" height="380">
+<img src="https://github.com/fnccpp/qdorg-kde/blob/main/qdorg.png" width="380" height="450">
 
 ### Features 
 - Easy to use 👴
