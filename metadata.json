@@ -1,0 +1,27 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "fnccpp"
+            }
+        ],
+        "Category": "Tasks",
+        "EnabledByDefault": true,
+        "FormFactors": [
+            "desktop"
+        ],
+        "Icon": "user-desktop",
+        "Id": "org.kde.plasma.qdorg",
+        "License": "GPL-2.0+",
+        "Name": "Qdorg",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0",
+        "Website": "https://gitub.com/fnccpp/qdorg-kde"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-Provides": [
+    ]
+}
